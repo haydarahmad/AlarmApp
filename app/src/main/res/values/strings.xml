@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyAlarmApp</string>
+    <string name="txt_hello">Hello,</string>
+    <string name="txt_welcome">Welcome in Smart Alarm</string>
+    <string name="txt_time_today">13.05</string>
+    <string name="txt_date_today">Sun, 26 December 2021</string>
+    <string name="txt_set_reminder">Set Your Reminder</string>
+    <string name="txt_set">Set</string>
+    <string name="txt_one_time_alarm">One Time Alarm</string>
+    <string name="txt_repeating_alarm">Repeating Alarm</string>
+    <string name="txt_your_alarm">Your Alarm</string>
+    <string name="txt_set_date">Set Date</string>
+    <string name="txt_set_time">time</string>
+    <string name="txt_note">Note</string>
+    <string name="txt_add_set_alarm">Add Set Alarm</string>
+    <string name="txt_cancel_set_alarm">Cancel Set Alarm</string>
+    <string name="txt_input_note">Input Your Note</string>
+    <string name="image_icon_one_time_alarm">image_icon_one_time_alarm</string>
+    <string name="date">date</string>
+    <string name="set_date">set_date</string>
+    <string name="input_your_note">Input Your Note</string>
+    <string name="note">Note</string>
+    <string name="add_set_alarm">add set alarm</string>
+    <string name="cancel">cancel</string>
+    <string name="txt_toast_add_alarm"><![CDATA[Plase set Date & Time]]></string>
+    <string name="txt_toast_add_repeating"><![CDATA[Plase set Time]]></string>
+
+</resources>
