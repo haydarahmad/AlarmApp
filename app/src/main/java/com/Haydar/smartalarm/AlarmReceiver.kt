@@ -89,7 +89,7 @@ class AlarmReceiver : BroadcastReceiver() {
 
     }
 
-    @RequiresApi(Build.VERSION_CODES.S)
+
     fun cancelAlarm(context: Context, type: Int) {
     //alarm manager
         val alarmManager = context.getSystemService(Context.ALARM_SERVICE)as AlarmManager
